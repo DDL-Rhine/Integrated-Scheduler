@@ -1,4 +1,4 @@
-# IceFrog Simulator and Experiment Scripts (simulator-artifact)
+# Integrated-Scheduler
 
 This repository contains a simulator and experiment scripts for deadline-aware, elastic scheduling of distributed training on multi-GPU clusters. It is designed to reproduce and analyze:
 - DeadlineMeet (ADAPT‑DM) scheduling: utility maximization (goodput × deadline pressure × elastic weights) with feasible bin-packing;
